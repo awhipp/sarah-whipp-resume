@@ -1,5 +1,7 @@
 # Sarah Whipp's Resume
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/499b3cfd-eb91-488d-949c-5ce6274953c8/deploy-status)](https://app.netlify.com/sites/sarah-whipp/deploys)
+
 ## Development
 
 After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
