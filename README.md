@@ -1,6 +1,7 @@
 # Sarah Whipp's Resume
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/499b3cfd-eb91-488d-949c-5ce6274953c8/deploy-status)](https://app.netlify.com/sites/sarah-whipp/deploys)
+[![Build Status](https://travis-ci.com/awhipp/sarah-whipp-resume.svg?branch=master)](https://travis-ci.com/awhipp/sarah-whipp-resume)
 
 ## Development
 
